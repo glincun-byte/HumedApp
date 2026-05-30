@@ -382,7 +382,7 @@ const Dashboard: React.FC<DashboardProps> = ({ setActiveTab }) => {
   return (
     <div className="flex flex-col gap-5 p-4 animate-fadeIn text-black">
       <header className="flex flex-col gap-1">
-        <h1 className="text-3xl leading-[0.95] font-black text-emerald-950 tracking-tight">EcoVigia!</h1>
+        <h1 className="text-3xl leading-[0.95] font-black text-emerald-950 tracking-tight">HumedApp!</h1>
         <p className="text-slate-600 text-base">
           {lang === 'en'
             ? 'Explore and protect the Techo Wetland'
