@@ -126,7 +126,7 @@ const AppContent: React.FC = () => {
             <div className="w-full flex items-center justify-between gap-3">
               <div className="bg-white/85 px-3 py-1.5 rounded-full shadow-md border border-white/80 flex items-center gap-2 min-w-0 backdrop-blur-md">
                 <span className="text-1xl font-extrabold text-emerald-900 tracking-tight">
-                  EcoVigia!
+                  HumedApp!
                 </span>
                 <span className="w-px h-5 bg-emerald-200" />
                 <img
