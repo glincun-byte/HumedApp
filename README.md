@@ -1,6 +1,6 @@
-# EcoVigía 🌱📱
+# HumedApp 🌱📱
 
-¡Hola! Este es el código fuente de **EcoVigía**, una aplicación móvil enfocada en el monitoreo, la educación y la conservación del Humedal de Techo. 
+¡Hola! Este es el código fuente de **HumedApp**, una aplicación móvil enfocada en el monitoreo, la educación y la conservación del Humedal de Techo. 
 
 Este proyecto hace parte de mi trabajo de grado en la **Uniagustiniana** y busca acercar a la comunidad al cuidado del medio ambiente a través de la tecnología.
 
