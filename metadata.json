@@ -1,0 +1,8 @@
+{
+  "name": "EcoVigia! - Humedal de Techo",
+  "description": "Herramienta digital integral para el monitoreo ambiental, educación, participación ciudadana y preservación de la memoria del Humedal de Techo en Bogotá.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
