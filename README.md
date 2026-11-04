@@ -44,4 +44,4 @@ npx cap open android
 
 ---
 *Desarrollado con mucha dedicación para aportar nuestro granito de arena al cuidado de nuestros humedales.*
-*Desarrolladores Carlos Eduardo Cruz - Juan Esteban Leon y Aporte Ramiro Osorio Diaz* 🦆🍃
+*Desarrolladores Carlos Eduardo Cruz - Juan Esteban Leon y Aporte Principal Ramiro Osorio Diaz* 🦆🍃
